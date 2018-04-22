@@ -1,3 +1,3 @@
 # hello-world
 im hanbit
-I want to give changes
+am i doing this right?
